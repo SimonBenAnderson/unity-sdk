@@ -40,7 +40,8 @@ You can get the SDK by cloning the repository from GitHub.
       5. Click **Apply Credentials**.
       6. Repeat steps 1 - 5 for each service you want to use.
 3. If you need to configure the services that you want to use, complete the following steps.
-      1. In the Unity Config Editor, click the **Configure** button beside the service to register. The service window is displayed. :warning: **Note:**If you encounter a Retrieve Space Error (BXNUI0515E), Click on your User icon(Top Right on the IBM Bluemix page) and select the region you are in. This will cause the page to refresh with the correct information to create the Service.
+      1. In the Unity Config Editor, click the **Configure** button beside the service to register. The service window is displayed. 
+      :warning: If you encounter a "Retrieve Space Error" (BXNUI0515E), Click on your User icon(Top Right on the IBM Bluemix page) and select the region you are in. This will cause the page to refresh with the correct information to create the Service.
       2. Click **Create**.
       3. Click **Service Credentials**.
       4. Copy the content in the Service Credentials field, and paste it in the empty credentials field in the Config Editor in Unity.
